@@ -1,0 +1,16 @@
+#app {
+    background-color: aquamarine;
+    text-align: center;
+}
+#jogos {
+    background-color: aqua;
+}
+#ChatBot {
+    background-color:antiquewhite ;
+    text-align: center;
+}
+
+#myCarouselimg img {
+margin-top: 35px;
+height: 100px;
+    } 
